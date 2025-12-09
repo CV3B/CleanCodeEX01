@@ -1,3 +1,7 @@
 <Solution>
-  <Project Path="Inlämningsuppgift 1/Inlämningsuppgift 1.csproj" />
+  <Folder Name="/Solution Items/" />
+  <Project Path="Inlämningsuppgift1.Data/Inlämningsuppgift1.Data.csproj" Id="686ea210-c219-4fa6-99a8-d2cd953d8ba6" />
+  <Project Path="Inlämningsuppgift 1/Inlämningsuppgift1.Api.csproj" />
+  <Project Path="Inlämningsuppgift1.Core/Inlämningsuppgift1.Core.csproj" Id="9db6cfef-24cd-4c1c-bec9-239201382bd1" />
+  <Project Path="Inlämningsuppgift1.Tests/Inlämningsuppgift1.Tests.csproj" Id="2125f144-b7a4-4f0d-87d9-3fd48923b43c" />
 </Solution>
